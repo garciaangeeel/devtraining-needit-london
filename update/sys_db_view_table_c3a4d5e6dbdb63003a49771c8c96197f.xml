@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <left_join>false</left_join>
+        <order>200</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-01 08:36:22</sys_created_on>
+        <sys_id>c3a4d5e6dbdb63003a49771c8c96197f</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>sc_task</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_db_view_table_c3a4d5e6dbdb63003a49771c8c96197f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-01 08:39:08</sys_updated_on>
+        <table>sc_task</table>
+        <variable_prefix>cat</variable_prefix>
+        <view display_value="x_58872_needit_u_incident_sc_task">37c689aedb9b63003a49771c8c9619e5</view>
+        <where_clause/>
+    </sys_db_view_table>
+</record_update>
